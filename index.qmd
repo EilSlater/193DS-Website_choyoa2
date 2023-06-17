@@ -1,5 +1,8 @@
 ---
 title: "193DS-Website_choyoa2"
+project:
+  type: website
+  output-dir: docs
 ---
 
 This is a Quarto website.

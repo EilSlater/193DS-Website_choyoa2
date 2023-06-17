@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "193DS-Website_choyoa2"
+  title: "Eilidh Slater"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: favorite_projects.qmd
+        text: My Favorite Projects
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

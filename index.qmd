@@ -1,14 +1,22 @@
 ---
-title: "193DS-Website_choyoa2"
-project:
-  type: website
-  output-dir: docs
+title: "Eilidh Slater"
+image: profile_picture_grad.jpg
+about:
+  template: jolla
+  image-shape: rectangle
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/eilidh-slater/
+    - text: Email
+      href: mailto:eslater@ucsb.edu
 ---
 
-This is a Quarto website.
+# Eilidh Slater
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+\-\--
 
-```{r}
-1 + 1
-```
+### Hi!
+
+I'm Eilidh Slater, and I am about to graduate from UC Santa Barbara with my BA in Environmental Studies!
+
+\-\--
